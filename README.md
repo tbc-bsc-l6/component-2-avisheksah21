@@ -1,4 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/DO-NkH46)
+# UPDATE
+### Please find all the source code and project files at https://github.com/avisheksah21/laravel_L6. I encountered multiple failures while working on the AWE project, which led me to create a new repository and make regular commits there. All tasks have been completed as per the requirements, and I have strictly followed the guidelines outlined in the AWE module.
+
 # Component 2 - Task
 
 <p>This is an extension of Component 1 and using Laravel as a Framework for working with your views and data.
